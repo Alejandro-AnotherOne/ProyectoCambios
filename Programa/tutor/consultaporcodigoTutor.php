@@ -35,7 +35,7 @@ function validar(formulario)
       <td>
 	<center>
         <input type="reset" name="Submit2" value="Limpiar" />
-		</center>
+</center>
       </td>
     </tr>
   </table>
